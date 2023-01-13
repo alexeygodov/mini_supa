@@ -27,10 +27,10 @@
 		<Metadata name="ChartOfCharacteristicTypes.Значение" id="45c93091-aa61-478a-9c1c-a799fb286ad0" configVersion="a452f527e31be842b5687277d354ebe100000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.Параметры" id="e12c06ae-6883-4d0c-b895-f15be8925dd4" configVersion="2a799a072e606246a11bed307fd7988100000000"/>
 		<Metadata name="Configuration.Конфигурация" id="73d43bdd-54f1-4ae9-8b99-20717169cf52" configVersion="c15bc2dc9d07db4bb6079687b7ee51fe00000000"/>
-		<Metadata name="Enum.ВидыОбъектовСтруктуры" id="81b6f557-ee00-4f8b-ae6c-fc93f9b2fcd3" configVersion="bd5d91148e33f641a777a11fc64daa3200000000">
-			<Metadata name="Enum.ВидыОбъектовСтруктуры.EnumValue.ТехническоеМесто" id="53f6dadd-a1ae-4cee-b373-ebcdf4aefb79"/>
-			<Metadata name="Enum.ВидыОбъектовСтруктуры.EnumValue.ОрганизационныйОбъект" id="543b9daa-d94b-40d4-bad6-341c75a922fe"/>
-			<Metadata name="Enum.ВидыОбъектовСтруктуры.EnumValue.КомплексныйОбъект" id="73444bdf-d0ba-42cb-9318-ae4294a5cdf7"/>
+		<Metadata name="Enum.урскВидыОбъектовСтруктуры" id="81b6f557-ee00-4f8b-ae6c-fc93f9b2fcd3" configVersion="257a85dcc131414f97627dab274d825900000000">
+			<Metadata name="Enum.урскВидыОбъектовСтруктуры.EnumValue.ТехническоеМесто" id="53f6dadd-a1ae-4cee-b373-ebcdf4aefb79"/>
+			<Metadata name="Enum.урскВидыОбъектовСтруктуры.EnumValue.ОрганизационныйОбъект" id="543b9daa-d94b-40d4-bad6-341c75a922fe"/>
+			<Metadata name="Enum.урскВидыОбъектовСтруктуры.EnumValue.КомплексныйОбъект" id="73444bdf-d0ba-42cb-9318-ae4294a5cdf7"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="e41f5162-90f6-43fd-8c0e-6e0a155c431c" configVersion="006732793bc5494cb1399e5337a909f700000000"/>
 	</ConfigVersions>

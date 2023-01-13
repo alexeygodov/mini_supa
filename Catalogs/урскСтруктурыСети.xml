@@ -98,7 +98,7 @@
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:EnumRef.ВидыОбъектовСтруктуры</v8:Type>
+						<v8:Type>cfg:EnumRef.урскВидыОбъектовСтруктуры</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>

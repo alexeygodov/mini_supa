@@ -215,7 +215,7 @@
 			<Catalog>урскСтруктурыСети</Catalog>
 			<Catalog>урскВидыОрганизационныхОбъектов</Catalog>
 			<Catalog>урскВидТехническихМест</Catalog>
-			<Enum>ВидыОбъектовСтруктуры</Enum>
+			<Enum>урскВидыОбъектовСтруктуры</Enum>
 			<ChartOfCharacteristicTypes>Параметры</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>Значение</ChartOfCharacteristicTypes>
 		</ChildObjects>

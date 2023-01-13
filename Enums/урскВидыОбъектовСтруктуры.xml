@@ -2,21 +2,21 @@
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.14">
 	<Enum uuid="81b6f557-ee00-4f8b-ae6c-fc93f9b2fcd3">
 		<InternalInfo>
-			<xr:GeneratedType name="EnumRef.ВидыОбъектовСтруктуры" category="Ref">
+			<xr:GeneratedType name="EnumRef.урскВидыОбъектовСтруктуры" category="Ref">
 				<xr:TypeId>c2387d06-427f-4068-84e4-a7d0861a219a</xr:TypeId>
 				<xr:ValueId>931a63d2-54a1-4ccd-8a91-c48990150e3f</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="EnumManager.ВидыОбъектовСтруктуры" category="Manager">
+			<xr:GeneratedType name="EnumManager.урскВидыОбъектовСтруктуры" category="Manager">
 				<xr:TypeId>183f1a23-b48c-493c-b0d7-b976018c73f3</xr:TypeId>
 				<xr:ValueId>9ad8e724-6d0d-49a1-a534-3f63237a8f68</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="EnumList.ВидыОбъектовСтруктуры" category="List">
+			<xr:GeneratedType name="EnumList.урскВидыОбъектовСтруктуры" category="List">
 				<xr:TypeId>a048a809-1937-4544-880d-6e8d147bdec7</xr:TypeId>
 				<xr:ValueId>2546c1e1-df9f-4f3f-8800-7cbbddae83c9</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ВидыОбъектовСтруктуры</Name>
+			<Name>урскВидыОбъектовСтруктуры</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
