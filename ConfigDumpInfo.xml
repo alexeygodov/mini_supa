@@ -1,7 +1,31 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.14">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="73d43bdd-54f1-4ae9-8b99-20717169cf52" configVersion="59112f86eda69c4b9a8e0e9d96f6519200000000"/>
+		<Metadata name="Catalog.урскВидТехническихМест" id="848c5825-3aed-4b96-b021-4c56ead45629" configVersion="4b8215c71a55904087644ad1a9b8215700000000"/>
+		<Metadata name="Catalog.урскВидыОрганизационныхОбъектов" id="caa972b8-6972-4b80-8f5b-3fd6e8da4167" configVersion="301738153ea8be4da80056c1d915544900000000"/>
+		<Metadata name="Catalog.урскЕдиницыОборудования" id="63848bba-9465-4865-be13-a679fe02d21d" configVersion="841ad2fcfb27304684fa47c796e5304e00000000">
+			<Metadata name="Catalog.урскЕдиницыОборудования.TabularSection.СтатическиеПараметры.Attribute.Параметр" id="1120a60a-040a-4cbb-9c53-c84a8c08d2b0"/>
+			<Metadata name="Catalog.урскЕдиницыОборудования.Attribute.ГруппаОборудования" id="646d3a1c-87d3-4d77-a2d5-13262329341a"/>
+			<Metadata name="Catalog.урскЕдиницыОборудования.TabularSection.СтатическиеПараметры.Attribute.Значение" id="6e7d43d7-3f87-45be-8adc-bfd968031912"/>
+			<Metadata name="Catalog.урскЕдиницыОборудования.TabularSection.СтатическиеПараметры" id="e7637d87-e4f3-498d-a825-c33a6019b06a"/>
+		</Metadata>
+		<Metadata name="Catalog.урскКлассификаторОсновногоПроизводственногоОборудования" id="87bb8cca-826b-4248-b222-27c1f9de231c" configVersion="70f4e8048531274e8acbd9362e1637c300000000"/>
+		<Metadata name="Catalog.урскСтруктурыСети" id="30d1e4c7-e297-4ea0-84f2-b65cd8afd4eb" configVersion="df5ac814b2bc774aa947f1a4d2e43fc800000000">
+			<Metadata name="Catalog.урскСтруктурыСети.TabularSection.СтатическиеПараметры.Attribute.Параметр" id="1cce6490-de26-411a-b98c-9c20af30f2fb"/>
+			<Metadata name="Catalog.урскСтруктурыСети.TabularSection.СтатическиеПараметры" id="45bf1ea8-8944-4e8a-b1fe-79056dfeea00"/>
+			<Metadata name="Catalog.урскСтруктурыСети.TabularSection.СтатическиеПараметры.Attribute.Значение" id="4ed77fec-c52b-4fd6-a0b7-9787a05bac37"/>
+			<Metadata name="Catalog.урскСтруктурыСети.Attribute.ВидОрганизационногоОбъектов" id="5b7155f9-e245-4ec8-af53-66ecbbc58d50"/>
+			<Metadata name="Catalog.урскСтруктурыСети.Attribute.ВидТехническогоМеста" id="755158f2-fed6-4996-9033-65b56a81ab9a"/>
+			<Metadata name="Catalog.урскСтруктурыСети.Attribute.ВидОбъектаСтруктуры" id="d65a9e06-1bcc-4533-98ee-2ad41c1d0212"/>
+		</Metadata>
+		<Metadata name="ChartOfCharacteristicTypes.Значение" id="45c93091-aa61-478a-9c1c-a799fb286ad0" configVersion="a452f527e31be842b5687277d354ebe100000000"/>
+		<Metadata name="ChartOfCharacteristicTypes.Параметры" id="e12c06ae-6883-4d0c-b895-f15be8925dd4" configVersion="2a799a072e606246a11bed307fd7988100000000"/>
+		<Metadata name="Configuration.Конфигурация" id="73d43bdd-54f1-4ae9-8b99-20717169cf52" configVersion="c15bc2dc9d07db4bb6079687b7ee51fe00000000"/>
+		<Metadata name="Enum.ВидыОбъектовСтруктуры" id="81b6f557-ee00-4f8b-ae6c-fc93f9b2fcd3" configVersion="bd5d91148e33f641a777a11fc64daa3200000000">
+			<Metadata name="Enum.ВидыОбъектовСтруктуры.EnumValue.ТехническоеМесто" id="53f6dadd-a1ae-4cee-b373-ebcdf4aefb79"/>
+			<Metadata name="Enum.ВидыОбъектовСтруктуры.EnumValue.ОрганизационныйОбъект" id="543b9daa-d94b-40d4-bad6-341c75a922fe"/>
+			<Metadata name="Enum.ВидыОбъектовСтруктуры.EnumValue.КомплексныйОбъект" id="73444bdf-d0ba-42cb-9318-ae4294a5cdf7"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="e41f5162-90f6-43fd-8c0e-6e0a155c431c" configVersion="006732793bc5494cb1399e5337a909f700000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

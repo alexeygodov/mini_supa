@@ -210,6 +210,14 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Catalog>урскЕдиницыОборудования</Catalog>
+			<Catalog>урскКлассификаторОсновногоПроизводственногоОборудования</Catalog>
+			<Catalog>урскСтруктурыСети</Catalog>
+			<Catalog>урскВидыОрганизационныхОбъектов</Catalog>
+			<Catalog>урскВидТехническихМест</Catalog>
+			<Enum>ВидыОбъектовСтруктуры</Enum>
+			<ChartOfCharacteristicTypes>Параметры</ChartOfCharacteristicTypes>
+			<ChartOfCharacteristicTypes>Значение</ChartOfCharacteristicTypes>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
