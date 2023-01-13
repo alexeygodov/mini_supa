@@ -10,14 +10,20 @@
 			<Metadata name="Catalog.урскЕдиницыОборудования.TabularSection.СтатическиеПараметры" id="e7637d87-e4f3-498d-a825-c33a6019b06a"/>
 		</Metadata>
 		<Metadata name="Catalog.урскКлассификаторОсновногоПроизводственногоОборудования" id="87bb8cca-826b-4248-b222-27c1f9de231c" configVersion="70f4e8048531274e8acbd9362e1637c300000000"/>
-		<Metadata name="Catalog.урскСтруктурыСети" id="30d1e4c7-e297-4ea0-84f2-b65cd8afd4eb" configVersion="df5ac814b2bc774aa947f1a4d2e43fc800000000">
+		<Metadata name="Catalog.урскСтруктурыСети" id="30d1e4c7-e297-4ea0-84f2-b65cd8afd4eb" configVersion="ff2b6e8132c4824ead40f6361f7d24bc00000000">
 			<Metadata name="Catalog.урскСтруктурыСети.TabularSection.СтатическиеПараметры.Attribute.Параметр" id="1cce6490-de26-411a-b98c-9c20af30f2fb"/>
 			<Metadata name="Catalog.урскСтруктурыСети.TabularSection.СтатическиеПараметры" id="45bf1ea8-8944-4e8a-b1fe-79056dfeea00"/>
 			<Metadata name="Catalog.урскСтруктурыСети.TabularSection.СтатическиеПараметры.Attribute.Значение" id="4ed77fec-c52b-4fd6-a0b7-9787a05bac37"/>
-			<Metadata name="Catalog.урскСтруктурыСети.Attribute.ВидОрганизационногоОбъектов" id="5b7155f9-e245-4ec8-af53-66ecbbc58d50"/>
+			<Metadata name="Catalog.урскСтруктурыСети.Attribute.ВидОрганизационногоОбъекта" id="5b7155f9-e245-4ec8-af53-66ecbbc58d50"/>
 			<Metadata name="Catalog.урскСтруктурыСети.Attribute.ВидТехническогоМеста" id="755158f2-fed6-4996-9033-65b56a81ab9a"/>
 			<Metadata name="Catalog.урскСтруктурыСети.Attribute.ВидОбъектаСтруктуры" id="d65a9e06-1bcc-4533-98ee-2ad41c1d0212"/>
 		</Metadata>
+		<Metadata name="Catalog.урскСтруктурыСети.Form.ФормаВыбора" id="9ee5d624-d275-43b9-915e-9116c5866237" configVersion="6e559d32c159c54f927d8d0035fc0d2f00000000"/>
+		<Metadata name="Catalog.урскСтруктурыСети.Form.ФормаВыбора.Form" id="9ee5d624-d275-43b9-915e-9116c5866237.0" configVersion="f797b80846e65c4685b2eea9f454f51400000000"/>
+		<Metadata name="Catalog.урскСтруктурыСети.Form.ФормаСписка" id="993c56d1-32e6-45e3-8236-d1fd5f3a3b12" configVersion="16e7260d76ce2548a7d4923d5ee8b5ae00000000"/>
+		<Metadata name="Catalog.урскСтруктурыСети.Form.ФормаСписка.Form" id="993c56d1-32e6-45e3-8236-d1fd5f3a3b12.0" configVersion="d6e595925c3ca64da004b94209bc473500000000"/>
+		<Metadata name="Catalog.урскСтруктурыСети.Form.ФормаЭлемента" id="af009bb8-2f99-47f7-b836-35b7fd4dbc2d" configVersion="20ea808cb8ebec4e94c6145d32ab4c9200000000"/>
+		<Metadata name="Catalog.урскСтруктурыСети.Form.ФормаЭлемента.Form" id="af009bb8-2f99-47f7-b836-35b7fd4dbc2d.0" configVersion="3d3f4a06cc5f504987a84e8036e6853b00000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.Значение" id="45c93091-aa61-478a-9c1c-a799fb286ad0" configVersion="a452f527e31be842b5687277d354ebe100000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.Параметры" id="e12c06ae-6883-4d0c-b895-f15be8925dd4" configVersion="2a799a072e606246a11bed307fd7988100000000"/>
 		<Metadata name="Configuration.Конфигурация" id="73d43bdd-54f1-4ae9-8b99-20717169cf52" configVersion="c15bc2dc9d07db4bb6079687b7ee51fe00000000"/>

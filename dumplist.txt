@@ -1,9 +1,0 @@
-﻿New: Catalog.урскВидТехническихМест
-New: Catalog.урскВидыОрганизационныхОбъектов
-New: Catalog.урскЕдиницыОборудования
-New: Catalog.урскКлассификаторОсновногоПроизводственногоОборудования
-New: Catalog.урскСтруктурыСети
-New: ChartOfCharacteristicTypes.Значение
-New: ChartOfCharacteristicTypes.Параметры
-New: Enum.ВидыОбъектовСтруктуры
-Modified: Configuration.Конфигурация

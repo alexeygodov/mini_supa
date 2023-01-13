@@ -60,10 +60,10 @@
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
-			<DefaultObjectForm/>
+			<DefaultObjectForm>Catalog.урскСтруктурыСети.Form.ФормаЭлемента</DefaultObjectForm>
 			<DefaultFolderForm/>
-			<DefaultListForm/>
-			<DefaultChoiceForm/>
+			<DefaultListForm>Catalog.урскСтруктурыСети.Form.ФормаСписка</DefaultListForm>
+			<DefaultChoiceForm>Catalog.урскСтруктурыСети.Form.ФормаВыбора</DefaultChoiceForm>
 			<DefaultFolderChoiceForm/>
 			<AuxiliaryObjectForm/>
 			<AuxiliaryFolderForm/>
@@ -129,11 +129,11 @@
 			</Attribute>
 			<Attribute uuid="5b7155f9-e245-4ec8-af53-66ecbbc58d50">
 				<Properties>
-					<Name>ВидОрганизационногоОбъектов</Name>
+					<Name>ВидОрганизационногоОбъекта</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Вид организационного объектов</v8:content>
+							<v8:content>Вид организационного объекта</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -308,6 +308,9 @@
 					</Attribute>
 				</ChildObjects>
 			</TabularSection>
+			<Form>ФормаЭлемента</Form>
+			<Form>ФормаСписка</Form>
+			<Form>ФормаВыбора</Form>
 		</ChildObjects>
 	</Catalog>
 </MetaDataObject>
