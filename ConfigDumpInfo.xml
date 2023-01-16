@@ -12,7 +12,6 @@
 		<Metadata name="Catalog.урскЕдиницыОборудования.Form.ФормаЭлемента" id="986764ce-78bd-44bc-8bad-195efdbb4a36" configVersion="041200c8bab8ba42b0d82150118e976800000000"/>
 		<Metadata name="Catalog.урскЕдиницыОборудования.Form.ФормаЭлемента.Form" id="986764ce-78bd-44bc-8bad-195efdbb4a36.0" configVersion="28e3524e43d18f47a3f408a02151284400000000"/>
 		<Metadata name="Catalog.урскКлассификаторОсновногоПроизводственногоОборудования" id="87bb8cca-826b-4248-b222-27c1f9de231c" configVersion="70f4e8048531274e8acbd9362e1637c300000000"/>
-		<Metadata name="Catalog.урскПараметры" id="588b30ec-7428-453a-bfe0-d11879532c90" configVersion="272a9ed86a50a34c8ed4ddeb3be0b24e00000000"/>
 		<Metadata name="Catalog.урскСтруктурыСети" id="30d1e4c7-e297-4ea0-84f2-b65cd8afd4eb" configVersion="ff2b6e8132c4824ead40f6361f7d24bc00000000">
 			<Metadata name="Catalog.урскСтруктурыСети.TabularSection.СтатическиеПараметры.Attribute.Параметр" id="1cce6490-de26-411a-b98c-9c20af30f2fb"/>
 			<Metadata name="Catalog.урскСтруктурыСети.TabularSection.СтатическиеПараметры" id="45bf1ea8-8944-4e8a-b1fe-79056dfeea00"/>
@@ -28,16 +27,24 @@
 		<Metadata name="Catalog.урскСтруктурыСети.Form.ФормаЭлемента" id="af009bb8-2f99-47f7-b836-35b7fd4dbc2d" configVersion="20ea808cb8ebec4e94c6145d32ab4c9200000000"/>
 		<Metadata name="Catalog.урскСтруктурыСети.Form.ФормаЭлемента.Form" id="af009bb8-2f99-47f7-b836-35b7fd4dbc2d.0" configVersion="3d3f4a06cc5f504987a84e8036e6853b00000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.Значение" id="45c93091-aa61-478a-9c1c-a799fb286ad0" configVersion="a452f527e31be842b5687277d354ebe100000000"/>
-		<Metadata name="ChartOfCharacteristicTypes.урскПараметры" id="e12c06ae-6883-4d0c-b895-f15be8925dd4" configVersion="d42f7f7e0f02ba4dbda0331bbb4a5eb000000000">
+		<Metadata name="ChartOfCharacteristicTypes.урскПараметры" id="e12c06ae-6883-4d0c-b895-f15be8925dd4" configVersion="6aae087a7518bc48a48d5a378c13f1cf00000000">
 			<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Attribute.ТипПараметра" id="b1016664-5387-491a-b7bc-a650a8d31040"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="73d43bdd-54f1-4ae9-8b99-20717169cf52" configVersion="57f0fa57f6c0a147abfeff5ab3f4390600000000"/>
-		<Metadata name="Document.урскВводИзмеренийТМ" id="3163d792-e472-4c7a-b61a-dca132fa9eb9" configVersion="107f81b377617043aeab2e03acbde1c600000000">
+		<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Form.ФормаВыбора" id="787292b6-276a-47ec-941f-399082f4d97a" configVersion="0840448a5db8d04f9fe12de76cf6175b00000000"/>
+		<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Form.ФормаВыбора.Form" id="787292b6-276a-47ec-941f-399082f4d97a.0" configVersion="76de867375c4684d818dfe4ac8b1bc0700000000"/>
+		<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Form.ФормаСписка" id="fc5b1657-d6e1-4599-9e9f-d3da02766982" configVersion="ee5a12a5e3d37a41b3ee48736e3876f700000000"/>
+		<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Form.ФормаСписка.Form" id="fc5b1657-d6e1-4599-9e9f-d3da02766982.0" configVersion="dbeecaea271e4a46a28c849c1be3d73500000000"/>
+		<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Form.ФормаЭлемента" id="d7ff282b-0764-420c-9d57-aa9252bc5875" configVersion="62ea58f3f5ead443b13855e111fc973200000000"/>
+		<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Form.ФормаЭлемента.Form" id="d7ff282b-0764-420c-9d57-aa9252bc5875.0" configVersion="a9800b886b49614eb9ef8f997a7f755100000000"/>
+		<Metadata name="Configuration.Конфигурация" id="73d43bdd-54f1-4ae9-8b99-20717169cf52" configVersion="a7ee68e34e01664892fc108fadac4a8000000000"/>
+		<Metadata name="Document.урскВводИзмеренийТМ" id="3163d792-e472-4c7a-b61a-dca132fa9eb9" configVersion="04e03155aaca3e43a7aa2b35ef3ef2ec00000000">
 			<Metadata name="Document.урскВводИзмеренийТМ.TabularSection.ИзмеренныеПараметры.Attribute.Значение" id="2fc72b8f-d60c-4112-b5b3-51224a04c4b2"/>
 			<Metadata name="Document.урскВводИзмеренийТМ.TabularSection.ИзмеренныеПараметры" id="7fb94571-8612-44b0-858d-a1f7b0e03106"/>
 			<Metadata name="Document.урскВводИзмеренийТМ.Attribute.ТехническоеМесто" id="b56a974a-6f52-4a4e-a64f-d330ca62e5a8"/>
 			<Metadata name="Document.урскВводИзмеренийТМ.TabularSection.ИзмеренныеПараметры.Attribute.Параметр" id="e0d76086-5aa3-4a94-a440-06a92609a98d"/>
 		</Metadata>
+		<Metadata name="Document.урскВводИзмеренийТМ.Form.ФормаСписка" id="67394ac1-5e26-4df8-9d57-6dbc9157ec39" configVersion="d6e8b35283291a4c9c87bf7c75e9af7800000000"/>
+		<Metadata name="Document.урскВводИзмеренийТМ.Form.ФормаСписка.Form" id="67394ac1-5e26-4df8-9d57-6dbc9157ec39.0" configVersion="fbf9d223bc8f4148981d468f0059dc4700000000"/>
 		<Metadata name="Document.урскВводИзмеренийТМ.ObjectModule" id="3163d792-e472-4c7a-b61a-dca132fa9eb9.0" configVersion="16b176b38d0da947ac1df5e1caea178500000000"/>
 		<Metadata name="Enum.урскВидыОбъектовСтруктуры" id="81b6f557-ee00-4f8b-ae6c-fc93f9b2fcd3" configVersion="257a85dcc131414f97627dab274d825900000000">
 			<Metadata name="Enum.урскВидыОбъектовСтруктуры.EnumValue.ТехническоеМесто" id="53f6dadd-a1ae-4cee-b373-ebcdf4aefb79"/>
@@ -55,6 +62,7 @@
 		<Metadata name="Role.урскПросмотр_урскВводИзмеренийТМ.Rights" id="64890e55-b361-4116-a7ae-025a18d1982b.0" configVersion="a109228b28efb548bd26390186ae8f0400000000"/>
 		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ" id="1d923798-d380-4f00-aebe-6114838da1cc" configVersion="3b86935b753ac548b66a789630f3611e00000000"/>
 		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ.Rights" id="1d923798-d380-4f00-aebe-6114838da1cc.0" configVersion="e069a56c582b094fa8fac7ba574c4c2c00000000"/>
+		<Metadata name="Subsystem.СтруктурыСети" id="5e78738b-bbc6-4127-80ef-a6d6a156aa10" configVersion="4959c963cb7f28459abd98500b93269f00000000"/>
 		<Metadata name="Subsystem.ТехническиеМеста" id="32520af9-556a-491c-bd6b-33b34e158dea" configVersion="12f720b9622b27499e0ab3fdcc8f5c4900000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

@@ -211,6 +211,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>ТехническиеМеста</Subsystem>
+			<Subsystem>СтруктурыСети</Subsystem>
 			<Role>урскПросмотр_урскВводИзмеренийТМ</Role>
 			<Role>урскРедактирование_урскВводИзмеренийТМ</Role>
 			<Catalog>урскЕдиницыОборудования</Catalog>
@@ -218,7 +219,6 @@
 			<Catalog>урскСтруктурыСети</Catalog>
 			<Catalog>урскВидыОрганизационныхОбъектов</Catalog>
 			<Catalog>урскВидТехническихМест</Catalog>
-			<Catalog>урскПараметры</Catalog>
 			<Document>урскВводИзмеренийТМ</Document>
 			<Enum>урскВидыОбъектовСтруктуры</Enum>
 			<Enum>урскВидыОпераций</Enum>

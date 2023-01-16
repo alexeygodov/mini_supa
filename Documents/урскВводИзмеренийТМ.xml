@@ -50,7 +50,7 @@
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
 			<DefaultObjectForm/>
-			<DefaultListForm/>
+			<DefaultListForm>Document.урскВводИзмеренийТМ.Form.ФормаСписка</DefaultListForm>
 			<DefaultChoiceForm/>
 			<AuxiliaryObjectForm/>
 			<AuxiliaryListForm/>
@@ -119,6 +119,7 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Attribute>
+			<Form>ФормаСписка</Form>
 			<TabularSection uuid="7fb94571-8612-44b0-858d-a1f7b0e03106">
 				<InternalInfo>
 					<xr:GeneratedType name="DocumentTabularSection.урскВводИзмеренийТМ.ИзмеренныеПараметры" category="TabularSection">
@@ -195,7 +196,7 @@
 							</Synonym>
 							<Comment/>
 							<Type>
-								<v8:Type>cfg:CatalogRef.урскПараметры</v8:Type>
+								<v8:TypeSet>cfg:Characteristic.урскПараметры</v8:TypeSet>
 							</Type>
 							<PasswordMode>false</PasswordMode>
 							<Format/>
