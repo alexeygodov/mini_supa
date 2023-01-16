@@ -1,0 +1,5 @@
+﻿New: Document.урскВводИзмеренийТм
+New: Document.урскВводИзмеренийТм.ObjectModule
+New: Enum.урскВидыОпераций
+New: InformationRegister.урскЗначенияПараметровТехническихМест
+Modified: Configuration.Конфигурация
