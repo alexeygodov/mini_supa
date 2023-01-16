@@ -219,6 +219,7 @@
 			<Catalog>урскСтруктурыСети</Catalog>
 			<Catalog>урскВидыОрганизационныхОбъектов</Catalog>
 			<Catalog>урскВидТехническихМест</Catalog>
+			<Catalog>урскДинамические</Catalog>
 			<Document>урскВводИзмеренийТМ</Document>
 			<Enum>урскВидыОбъектовСтруктуры</Enum>
 			<Enum>урскВидыОпераций</Enum>
