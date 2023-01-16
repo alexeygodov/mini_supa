@@ -4,7 +4,7 @@
 		<Metadata name="Catalog.урскВидТехническихМест" id="848c5825-3aed-4b96-b021-4c56ead45629" configVersion="4b8215c71a55904087644ad1a9b8215700000000"/>
 		<Metadata name="Catalog.урскВидыОрганизационныхОбъектов" id="caa972b8-6972-4b80-8f5b-3fd6e8da4167" configVersion="301738153ea8be4da80056c1d915544900000000"/>
 		<Metadata name="Catalog.урскДинамические" id="0a4e05a8-2372-4477-8784-80b02a3df282" configVersion="06c89891af0ede489b57a69294f065b300000000"/>
-		<Metadata name="Catalog.урскЕдиницыОборудования" id="63848bba-9465-4865-be13-a679fe02d21d" configVersion="6df9143222b61c41bf49ce42516e0b7f00000000">
+		<Metadata name="Catalog.урскЕдиницыОборудования" id="63848bba-9465-4865-be13-a679fe02d21d" configVersion="91fb4fcc13fd5a438840c9cd9b6502cc00000000">
 			<Metadata name="Catalog.урскЕдиницыОборудования.TabularSection.СтатическиеПараметры.Attribute.Параметр" id="1120a60a-040a-4cbb-9c53-c84a8c08d2b0"/>
 			<Metadata name="Catalog.урскЕдиницыОборудования.Attribute.ГруппаОборудования" id="646d3a1c-87d3-4d77-a2d5-13262329341a"/>
 			<Metadata name="Catalog.урскЕдиницыОборудования.TabularSection.СтатическиеПараметры.Attribute.Значение" id="6e7d43d7-3f87-45be-8adc-bfd968031912"/>
