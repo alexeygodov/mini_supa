@@ -1,1 +1,1 @@
-﻿Modified: Catalog.урскЕдиницыОборудования
+﻿Modified: InformationRegister.урскЗначенияПараметровТехническихМест

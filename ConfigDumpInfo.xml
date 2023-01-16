@@ -53,7 +53,7 @@
 			<Metadata name="Enum.урскВидыОбъектовСтруктуры.EnumValue.КомплексныйОбъект" id="73444bdf-d0ba-42cb-9318-ae4294a5cdf7"/>
 		</Metadata>
 		<Metadata name="Enum.урскВидыОпераций" id="bf5cee82-c6a3-42f8-b4e4-79e4e9d882bb" configVersion="98215a811a47154bbd3b232a8d4033ed00000000"/>
-		<Metadata name="InformationRegister.урскЗначенияПараметровТехническихМест" id="013ac0cd-bde8-4a2f-8080-9fa1d4ca37a4" configVersion="4d7101bc9bd91e40afa30b990b0c724800000000">
+		<Metadata name="InformationRegister.урскЗначенияПараметровТехническихМест" id="013ac0cd-bde8-4a2f-8080-9fa1d4ca37a4" configVersion="235385b39e2f794fa47b96a0a23615c000000000">
 			<Metadata name="InformationRegister.урскЗначенияПараметровТехническихМест.Dimension.ТехническоеМесто" id="26cc9eb8-ce0a-48e2-9c75-c41f22858e58"/>
 			<Metadata name="InformationRegister.урскЗначенияПараметровТехническихМест.Resource.Значение" id="29e54bbc-50ff-4f10-b7df-45fe26c1c0ac"/>
 			<Metadata name="InformationRegister.урскЗначенияПараметровТехническихМест.Dimension.Параметр" id="aecf9327-31ba-4958-ba79-5da675a46d4f"/>
