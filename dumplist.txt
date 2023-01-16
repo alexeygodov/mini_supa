@@ -1,0 +1,4 @@
+﻿New: Role.урскПросмотр_урскВводИзмеренийТМ
+New: Role.урскПросмотр_урскВводИзмеренийТМ.Rights
+New: Subsystem.ТехническиеМеста
+Modified: Configuration.Конфигурация

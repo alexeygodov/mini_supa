@@ -210,6 +210,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>ТехническиеМеста</Subsystem>
+			<Role>урскПросмотр_урскВводИзмеренийТМ</Role>
 			<Catalog>урскЕдиницыОборудования</Catalog>
 			<Catalog>урскКлассификаторОсновногоПроизводственногоОборудования</Catalog>
 			<Catalog>урскСтруктурыСети</Catalog>
