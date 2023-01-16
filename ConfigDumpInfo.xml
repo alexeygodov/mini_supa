@@ -38,7 +38,7 @@
 		<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Form.ФормаСписка.Form" id="fc5b1657-d6e1-4599-9e9f-d3da02766982.0" configVersion="dbeecaea271e4a46a28c849c1be3d73500000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Form.ФормаЭлемента" id="d7ff282b-0764-420c-9d57-aa9252bc5875" configVersion="62ea58f3f5ead443b13855e111fc973200000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Form.ФормаЭлемента.Form" id="d7ff282b-0764-420c-9d57-aa9252bc5875.0" configVersion="a9800b886b49614eb9ef8f997a7f755100000000"/>
-		<Metadata name="Configuration.Конфигурация" id="73d43bdd-54f1-4ae9-8b99-20717169cf52" configVersion="8c62927ab02202489a24715ba8dcf5fa00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="73d43bdd-54f1-4ae9-8b99-20717169cf52" configVersion="fb58f79b84bc804da581f28d9a37fd5900000000"/>
 		<Metadata name="Document.урскВводИзмеренийТМ" id="3163d792-e472-4c7a-b61a-dca132fa9eb9" configVersion="04e03155aaca3e43a7aa2b35ef3ef2ec00000000">
 			<Metadata name="Document.урскВводИзмеренийТМ.TabularSection.ИзмеренныеПараметры.Attribute.Значение" id="2fc72b8f-d60c-4112-b5b3-51224a04c4b2"/>
 			<Metadata name="Document.урскВводИзмеренийТМ.TabularSection.ИзмеренныеПараметры" id="7fb94571-8612-44b0-858d-a1f7b0e03106"/>
@@ -64,6 +64,7 @@
 		<Metadata name="Role.урскПросмотр_урскВводИзмеренийТМ.Rights" id="64890e55-b361-4116-a7ae-025a18d1982b.0" configVersion="a109228b28efb548bd26390186ae8f0400000000"/>
 		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ" id="1d923798-d380-4f00-aebe-6114838da1cc" configVersion="3b86935b753ac548b66a789630f3611e00000000"/>
 		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ.Rights" id="1d923798-d380-4f00-aebe-6114838da1cc.0" configVersion="e069a56c582b094fa8fac7ba574c4c2c00000000"/>
+		<Metadata name="Subsystem.Оборудование" id="6a338690-82fc-4ad9-aa17-6ad622e6fd28" configVersion="b925696aabab49439be4ef313265b5f100000000"/>
 		<Metadata name="Subsystem.СтруктурыСети" id="5e78738b-bbc6-4127-80ef-a6d6a156aa10" configVersion="4959c963cb7f28459abd98500b93269f00000000"/>
 		<Metadata name="Subsystem.ТехническиеМеста" id="32520af9-556a-491c-bd6b-33b34e158dea" configVersion="12f720b9622b27499e0ab3fdcc8f5c4900000000"/>
 	</ConfigVersions>

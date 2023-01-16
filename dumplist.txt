@@ -1,1 +1,2 @@
-﻿Modified: ChartOfCharacteristicTypes.урскПараметры
+﻿New: Subsystem.Оборудование
+Modified: Configuration.Конфигурация
