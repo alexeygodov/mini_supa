@@ -28,7 +28,8 @@
 		<Metadata name="Catalog.урскСтруктурыСети.Form.ФормаЭлемента" id="af009bb8-2f99-47f7-b836-35b7fd4dbc2d" configVersion="20ea808cb8ebec4e94c6145d32ab4c9200000000"/>
 		<Metadata name="Catalog.урскСтруктурыСети.Form.ФормаЭлемента.Form" id="af009bb8-2f99-47f7-b836-35b7fd4dbc2d.0" configVersion="3d3f4a06cc5f504987a84e8036e6853b00000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.Значение" id="45c93091-aa61-478a-9c1c-a799fb286ad0" configVersion="a452f527e31be842b5687277d354ebe100000000"/>
-		<Metadata name="ChartOfCharacteristicTypes.урскПараметры" id="e12c06ae-6883-4d0c-b895-f15be8925dd4" configVersion="6aae087a7518bc48a48d5a378c13f1cf00000000">
+		<Metadata name="ChartOfCharacteristicTypes.урскПараметры" id="e12c06ae-6883-4d0c-b895-f15be8925dd4" configVersion="6b76e33dd6bfd647a67cedafb3fb3ca400000000">
+			<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Attribute.ЕдиницаИзмерения" id="5549b46c-60fa-4f1a-9258-53ec179526bb"/>
 			<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Attribute.ТипПараметра" id="b1016664-5387-491a-b7bc-a650a8d31040"/>
 		</Metadata>
 		<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Form.ФормаВыбора" id="787292b6-276a-47ec-941f-399082f4d97a" configVersion="0840448a5db8d04f9fe12de76cf6175b00000000"/>

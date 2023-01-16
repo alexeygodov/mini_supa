@@ -1,1 +1,1 @@
-﻿Modified: InformationRegister.урскЗначенияПараметровТехническихМест
+﻿Modified: ChartOfCharacteristicTypes.урскПараметры
