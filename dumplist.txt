@@ -1,2 +1,2 @@
-﻿New: Subsystem.Оборудование
-Modified: Configuration.Конфигурация
+﻿Modified: Role.урскПросмотр_урскВводИзмеренийТМ
+Modified: Role.урскПросмотр_урскВводИзмеренийТМ.Rights

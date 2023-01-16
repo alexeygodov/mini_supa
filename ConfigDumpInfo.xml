@@ -60,8 +60,8 @@
 			<Metadata name="InformationRegister.урскЗначенияПараметровТехническихМест.Dimension.Параметр" id="aecf9327-31ba-4958-ba79-5da675a46d4f"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="e41f5162-90f6-43fd-8c0e-6e0a155c431c" configVersion="006732793bc5494cb1399e5337a909f700000000"/>
-		<Metadata name="Role.урскПросмотр_урскВводИзмеренийТМ" id="64890e55-b361-4116-a7ae-025a18d1982b" configVersion="a349fca00cedef4fa3990e9513a12bc500000000"/>
-		<Metadata name="Role.урскПросмотр_урскВводИзмеренийТМ.Rights" id="64890e55-b361-4116-a7ae-025a18d1982b.0" configVersion="a109228b28efb548bd26390186ae8f0400000000"/>
+		<Metadata name="Role.урскПросмотр_урскВводИзмеренийТМ" id="64890e55-b361-4116-a7ae-025a18d1982b" configVersion="d3fc61ee090d554893fbde6c17e286aa00000000"/>
+		<Metadata name="Role.урскПросмотр_урскВводИзмеренийТМ.Rights" id="64890e55-b361-4116-a7ae-025a18d1982b.0" configVersion="52561524298dc547b2c64450b1a2512a00000000"/>
 		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ" id="1d923798-d380-4f00-aebe-6114838da1cc" configVersion="3b86935b753ac548b66a789630f3611e00000000"/>
 		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ.Rights" id="1d923798-d380-4f00-aebe-6114838da1cc.0" configVersion="e069a56c582b094fa8fac7ba574c4c2c00000000"/>
 		<Metadata name="Subsystem.Оборудование" id="6a338690-82fc-4ad9-aa17-6ad622e6fd28" configVersion="b925696aabab49439be4ef313265b5f100000000"/>
