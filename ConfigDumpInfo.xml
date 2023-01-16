@@ -3,12 +3,14 @@
 	<ConfigVersions>
 		<Metadata name="Catalog.урскВидТехническихМест" id="848c5825-3aed-4b96-b021-4c56ead45629" configVersion="4b8215c71a55904087644ad1a9b8215700000000"/>
 		<Metadata name="Catalog.урскВидыОрганизационныхОбъектов" id="caa972b8-6972-4b80-8f5b-3fd6e8da4167" configVersion="301738153ea8be4da80056c1d915544900000000"/>
-		<Metadata name="Catalog.урскЕдиницыОборудования" id="63848bba-9465-4865-be13-a679fe02d21d" configVersion="841ad2fcfb27304684fa47c796e5304e00000000">
+		<Metadata name="Catalog.урскЕдиницыОборудования" id="63848bba-9465-4865-be13-a679fe02d21d" configVersion="6df9143222b61c41bf49ce42516e0b7f00000000">
 			<Metadata name="Catalog.урскЕдиницыОборудования.TabularSection.СтатическиеПараметры.Attribute.Параметр" id="1120a60a-040a-4cbb-9c53-c84a8c08d2b0"/>
 			<Metadata name="Catalog.урскЕдиницыОборудования.Attribute.ГруппаОборудования" id="646d3a1c-87d3-4d77-a2d5-13262329341a"/>
 			<Metadata name="Catalog.урскЕдиницыОборудования.TabularSection.СтатическиеПараметры.Attribute.Значение" id="6e7d43d7-3f87-45be-8adc-bfd968031912"/>
 			<Metadata name="Catalog.урскЕдиницыОборудования.TabularSection.СтатическиеПараметры" id="e7637d87-e4f3-498d-a825-c33a6019b06a"/>
 		</Metadata>
+		<Metadata name="Catalog.урскЕдиницыОборудования.Form.ФормаЭлемента" id="986764ce-78bd-44bc-8bad-195efdbb4a36" configVersion="041200c8bab8ba42b0d82150118e976800000000"/>
+		<Metadata name="Catalog.урскЕдиницыОборудования.Form.ФормаЭлемента.Form" id="986764ce-78bd-44bc-8bad-195efdbb4a36.0" configVersion="28e3524e43d18f47a3f408a02151284400000000"/>
 		<Metadata name="Catalog.урскКлассификаторОсновногоПроизводственногоОборудования" id="87bb8cca-826b-4248-b222-27c1f9de231c" configVersion="70f4e8048531274e8acbd9362e1637c300000000"/>
 		<Metadata name="Catalog.урскПараметры" id="588b30ec-7428-453a-bfe0-d11879532c90" configVersion="272a9ed86a50a34c8ed4ddeb3be0b24e00000000"/>
 		<Metadata name="Catalog.урскСтруктурыСети" id="30d1e4c7-e297-4ea0-84f2-b65cd8afd4eb" configVersion="ff2b6e8132c4824ead40f6361f7d24bc00000000">
