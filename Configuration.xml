@@ -216,7 +216,7 @@
 			<Catalog>урскВидыОрганизационныхОбъектов</Catalog>
 			<Catalog>урскВидТехническихМест</Catalog>
 			<Catalog>урскПараметры</Catalog>
-			<Document>урскВводИзмеренийТм</Document>
+			<Document>урскВводИзмеренийТМ</Document>
 			<Enum>урскВидыОбъектовСтруктуры</Enum>
 			<Enum>урскВидыОпераций</Enum>
 			<InformationRegister>урскЗначенияПараметровТехническихМест</InformationRegister>
