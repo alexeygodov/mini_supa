@@ -31,7 +31,7 @@
 		<Metadata name="ChartOfCharacteristicTypes.урскПараметры" id="e12c06ae-6883-4d0c-b895-f15be8925dd4" configVersion="d42f7f7e0f02ba4dbda0331bbb4a5eb000000000">
 			<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Attribute.ТипПараметра" id="b1016664-5387-491a-b7bc-a650a8d31040"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="73d43bdd-54f1-4ae9-8b99-20717169cf52" configVersion="f220555bd90bb34cae4ef4fc9edd75b900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="73d43bdd-54f1-4ae9-8b99-20717169cf52" configVersion="57f0fa57f6c0a147abfeff5ab3f4390600000000"/>
 		<Metadata name="Document.урскВводИзмеренийТМ" id="3163d792-e472-4c7a-b61a-dca132fa9eb9" configVersion="107f81b377617043aeab2e03acbde1c600000000">
 			<Metadata name="Document.урскВводИзмеренийТМ.TabularSection.ИзмеренныеПараметры.Attribute.Значение" id="2fc72b8f-d60c-4112-b5b3-51224a04c4b2"/>
 			<Metadata name="Document.урскВводИзмеренийТМ.TabularSection.ИзмеренныеПараметры" id="7fb94571-8612-44b0-858d-a1f7b0e03106"/>
@@ -53,6 +53,8 @@
 		<Metadata name="Language.Русский" id="e41f5162-90f6-43fd-8c0e-6e0a155c431c" configVersion="006732793bc5494cb1399e5337a909f700000000"/>
 		<Metadata name="Role.урскПросмотр_урскВводИзмеренийТМ" id="64890e55-b361-4116-a7ae-025a18d1982b" configVersion="a349fca00cedef4fa3990e9513a12bc500000000"/>
 		<Metadata name="Role.урскПросмотр_урскВводИзмеренийТМ.Rights" id="64890e55-b361-4116-a7ae-025a18d1982b.0" configVersion="a109228b28efb548bd26390186ae8f0400000000"/>
+		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ" id="1d923798-d380-4f00-aebe-6114838da1cc" configVersion="3b86935b753ac548b66a789630f3611e00000000"/>
+		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ.Rights" id="1d923798-d380-4f00-aebe-6114838da1cc.0" configVersion="e069a56c582b094fa8fac7ba574c4c2c00000000"/>
 		<Metadata name="Subsystem.ТехническиеМеста" id="32520af9-556a-491c-bd6b-33b34e158dea" configVersion="12f720b9622b27499e0ab3fdcc8f5c4900000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
