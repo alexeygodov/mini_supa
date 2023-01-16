@@ -75,7 +75,7 @@
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:TypeSet>cfg:Characteristic.Параметры</v8:TypeSet>
+						<v8:TypeSet>cfg:Characteristic.урскПараметры</v8:TypeSet>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -156,7 +156,7 @@
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:ChartOfCharacteristicTypesRef.Параметры</v8:Type>
+						<v8:Type>cfg:ChartOfCharacteristicTypesRef.урскПараметры</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>

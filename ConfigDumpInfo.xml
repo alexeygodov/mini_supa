@@ -10,6 +10,7 @@
 			<Metadata name="Catalog.урскЕдиницыОборудования.TabularSection.СтатическиеПараметры" id="e7637d87-e4f3-498d-a825-c33a6019b06a"/>
 		</Metadata>
 		<Metadata name="Catalog.урскКлассификаторОсновногоПроизводственногоОборудования" id="87bb8cca-826b-4248-b222-27c1f9de231c" configVersion="70f4e8048531274e8acbd9362e1637c300000000"/>
+		<Metadata name="Catalog.урскПараметры" id="588b30ec-7428-453a-bfe0-d11879532c90" configVersion="272a9ed86a50a34c8ed4ddeb3be0b24e00000000"/>
 		<Metadata name="Catalog.урскСтруктурыСети" id="30d1e4c7-e297-4ea0-84f2-b65cd8afd4eb" configVersion="ff2b6e8132c4824ead40f6361f7d24bc00000000">
 			<Metadata name="Catalog.урскСтруктурыСети.TabularSection.СтатическиеПараметры.Attribute.Параметр" id="1cce6490-de26-411a-b98c-9c20af30f2fb"/>
 			<Metadata name="Catalog.урскСтруктурыСети.TabularSection.СтатическиеПараметры" id="45bf1ea8-8944-4e8a-b1fe-79056dfeea00"/>
@@ -25,8 +26,10 @@
 		<Metadata name="Catalog.урскСтруктурыСети.Form.ФормаЭлемента" id="af009bb8-2f99-47f7-b836-35b7fd4dbc2d" configVersion="20ea808cb8ebec4e94c6145d32ab4c9200000000"/>
 		<Metadata name="Catalog.урскСтруктурыСети.Form.ФормаЭлемента.Form" id="af009bb8-2f99-47f7-b836-35b7fd4dbc2d.0" configVersion="3d3f4a06cc5f504987a84e8036e6853b00000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.Значение" id="45c93091-aa61-478a-9c1c-a799fb286ad0" configVersion="a452f527e31be842b5687277d354ebe100000000"/>
-		<Metadata name="ChartOfCharacteristicTypes.Параметры" id="e12c06ae-6883-4d0c-b895-f15be8925dd4" configVersion="2a799a072e606246a11bed307fd7988100000000"/>
-		<Metadata name="Configuration.Конфигурация" id="73d43bdd-54f1-4ae9-8b99-20717169cf52" configVersion="72e4badb105a034e8e669ce91d505d5200000000"/>
+		<Metadata name="ChartOfCharacteristicTypes.урскПараметры" id="e12c06ae-6883-4d0c-b895-f15be8925dd4" configVersion="d42f7f7e0f02ba4dbda0331bbb4a5eb000000000">
+			<Metadata name="ChartOfCharacteristicTypes.урскПараметры.Attribute.ТипПараметра" id="b1016664-5387-491a-b7bc-a650a8d31040"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="73d43bdd-54f1-4ae9-8b99-20717169cf52" configVersion="81f221a1b79d3448afd68953dc6bf00400000000"/>
 		<Metadata name="Document.урскВводИзмеренийТм" id="3163d792-e472-4c7a-b61a-dca132fa9eb9" configVersion="e09d40dbc72ec9479272332b3e523fb900000000">
 			<Metadata name="Document.урскВводИзмеренийТм.TabularSection.ИзмеренныеПараметры.Attribute.Значение" id="2fc72b8f-d60c-4112-b5b3-51224a04c4b2"/>
 			<Metadata name="Document.урскВводИзмеренийТм.TabularSection.ИзмеренныеПараметры" id="7fb94571-8612-44b0-858d-a1f7b0e03106"/>

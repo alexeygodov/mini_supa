@@ -215,11 +215,12 @@
 			<Catalog>урскСтруктурыСети</Catalog>
 			<Catalog>урскВидыОрганизационныхОбъектов</Catalog>
 			<Catalog>урскВидТехническихМест</Catalog>
+			<Catalog>урскПараметры</Catalog>
 			<Document>урскВводИзмеренийТм</Document>
 			<Enum>урскВидыОбъектовСтруктуры</Enum>
 			<Enum>урскВидыОпераций</Enum>
 			<InformationRegister>урскЗначенияПараметровТехническихМест</InformationRegister>
-			<ChartOfCharacteristicTypes>Параметры</ChartOfCharacteristicTypes>
+			<ChartOfCharacteristicTypes>урскПараметры</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>Значение</ChartOfCharacteristicTypes>
 		</ChildObjects>
 	</Configuration>
