@@ -52,14 +52,14 @@
 		</Metadata>
 		<Metadata name="Document.урскПереносЕдиницОборудования.Form.ФормаДокумента" id="3b5aa926-6ac0-4f2b-a3d9-491b23b7b1e8" configVersion="d036f823bd638b408c39274ddea804e200000000"/>
 		<Metadata name="Document.урскПереносЕдиницОборудования.Form.ФормаДокумента.Form" id="3b5aa926-6ac0-4f2b-a3d9-491b23b7b1e8.0" configVersion="2f10f7134c53fe4183acc324eb2e1ad600000000"/>
-		<Metadata name="Document.урскУстановкаСнятиеЕдиницОборудования" id="4e66ee6e-c505-4062-897b-dc51be05f7d0" configVersion="e326f89d71048b48ac676e8cd5684b3e00000000">
+		<Metadata name="Document.урскУстановкаСнятиеЕдиницОборудования" id="4e66ee6e-c505-4062-897b-dc51be05f7d0" configVersion="670e6147f814614f96b9b9795c9dccaf00000000">
 			<Metadata name="Document.урскУстановкаСнятиеЕдиницОборудования.Attribute.ТехническоеМесто" id="7de72f28-40e8-49c5-b6e7-694938854f77"/>
 			<Metadata name="Document.урскУстановкаСнятиеЕдиницОборудования.Attribute.ЕдиницаОборудования" id="cce617f0-c3c5-468d-ae19-377520bc051f"/>
 			<Metadata name="Document.урскУстановкаСнятиеЕдиницОборудования.Attribute.ВидОперации" id="f5384a26-72cb-4484-a4d5-77f39476ffb9"/>
 		</Metadata>
 		<Metadata name="Document.урскУстановкаСнятиеЕдиницОборудования.Form.ФормаДокумента" id="5bcf2ea8-cced-4c63-a9c4-fe1e638e544a" configVersion="84c65c025b0f4e41883e3e319fac8ba800000000"/>
 		<Metadata name="Document.урскУстановкаСнятиеЕдиницОборудования.Form.ФормаДокумента.Form" id="5bcf2ea8-cced-4c63-a9c4-fe1e638e544a.0" configVersion="a387b0bfab01114a893992e4f29b536300000000"/>
-		<Metadata name="Document.урскУстановкаСнятиеЕдиницОборудования.ObjectModule" id="4e66ee6e-c505-4062-897b-dc51be05f7d0.0" configVersion="f10e63fe30524143a82390d15a002ed900000000"/>
+		<Metadata name="Document.урскУстановкаСнятиеЕдиницОборудования.ObjectModule" id="4e66ee6e-c505-4062-897b-dc51be05f7d0.0" configVersion="b232f071471c7f4fa4d4aee56ba804aa00000000"/>
 		<Metadata name="Enum.урскВидыОбъектовСтруктуры" id="81b6f557-ee00-4f8b-ae6c-fc93f9b2fcd3" configVersion="257a85dcc131414f97627dab274d825900000000">
 			<Metadata name="Enum.урскВидыОбъектовСтруктуры.EnumValue.ТехническоеМесто" id="53f6dadd-a1ae-4cee-b373-ebcdf4aefb79"/>
 			<Metadata name="Enum.урскВидыОбъектовСтруктуры.EnumValue.ОрганизационныйОбъект" id="543b9daa-d94b-40d4-bad6-341c75a922fe"/>
