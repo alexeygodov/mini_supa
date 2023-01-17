@@ -222,6 +222,8 @@
 			<Role>урскПросмотр_урскСтруктурыСети</Role>
 			<Role>урскРедактирование_урскСтруктурыСети</Role>
 			<Role>урскРедактирование_урскЕдиницыОборудования</Role>
+			<Role>урскПросмотр_урскУстановкаСнятиеЕдиницОборудования</Role>
+			<Role>урскРедактирование_урскУстановкаСнятиеЕдиницОборудования</Role>
 			<Catalog>урскЕдиницыОборудования</Catalog>
 			<Catalog>урскКлассификаторОсновногоПроизводственногоОборудования</Catalog>
 			<Catalog>урскСтруктурыСети</Catalog>
@@ -229,10 +231,12 @@
 			<Catalog>урскВидТехническихМест</Catalog>
 			<Document>урскВводИзмеренийТМ</Document>
 			<Document>урскПереносЕдиницОборудования</Document>
+			<Document>урскУстановкаСнятиеЕдиницОборудования</Document>
 			<Enum>урскВидыОбъектовСтруктуры</Enum>
 			<Enum>урскВидыОпераций</Enum>
 			<Enum>урскТипыПараметров</Enum>
 			<InformationRegister>урскЗначенияПараметровТехническихМест</InformationRegister>
+			<InformationRegister>урскЕдиницыОборудованияНаТехническихМестах</InformationRegister>
 			<ChartOfCharacteristicTypes>урскПараметры</ChartOfCharacteristicTypes>
 		</ChildObjects>
 	</Configuration>
