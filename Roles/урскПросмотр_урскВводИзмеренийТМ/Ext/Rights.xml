@@ -4,13 +4,6 @@
 	<setForAttributesByDefault>true</setForAttributesByDefault>
 	<independentRightsOfChildObjects>false</independentRightsOfChildObjects>
 	<object>
-		<name>Document.урскВводИзмеренийТМ.TabularSection.ИзмеренныеПараметры.Attribute.Значение</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Document.урскВводИзмеренийТМ</name>
 		<right>
 			<name>Read</name>
@@ -26,54 +19,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Document.урскВводИзмеренийТМ.StandardAttribute.Posted</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.урскВводИзмеренийТМ.StandardAttribute.Ref</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.урскВводИзмеренийТМ.StandardAttribute.DeletionMark</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.урскВводИзмеренийТМ.StandardAttribute.Date</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.урскВводИзмеренийТМ.StandardAttribute.Number</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Configuration.Конфигурация</name>
-		<right>
-			<name>ThinClient</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>WebClient</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>MobileClient</name>
-			<value>true</value>
-		</right>
 		<right>
 			<name>MainWindowModeNormal</name>
 			<value>true</value>
@@ -105,27 +51,6 @@
 		<right>
 			<name>Output</name>
 			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.урскВводИзмеренийТМ.TabularSection.ИзмеренныеПараметры</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.урскВводИзмеренийТМ.Attribute.ТехническоеМесто</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.урскВводИзмеренийТМ.TabularSection.ИзмеренныеПараметры.Attribute.Параметр</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
 		</right>
 	</object>
 </Rights>
