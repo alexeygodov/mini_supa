@@ -64,8 +64,8 @@
 		<Metadata name="Role.урскПросмотр_урскВводИзмеренийТМ.Rights" id="64890e55-b361-4116-a7ae-025a18d1982b.0" configVersion="0bf5178b6a1daf499ad9ac3e6cdb957500000000"/>
 		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ" id="1d923798-d380-4f00-aebe-6114838da1cc" configVersion="3b86935b753ac548b66a789630f3611e00000000"/>
 		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ.Rights" id="1d923798-d380-4f00-aebe-6114838da1cc.0" configVersion="e069a56c582b094fa8fac7ba574c4c2c00000000"/>
-		<Metadata name="Subsystem.Оборудование" id="6a338690-82fc-4ad9-aa17-6ad622e6fd28" configVersion="b925696aabab49439be4ef313265b5f100000000"/>
 		<Metadata name="Subsystem.СтруктурыСети" id="5e78738b-bbc6-4127-80ef-a6d6a156aa10" configVersion="4959c963cb7f28459abd98500b93269f00000000"/>
 		<Metadata name="Subsystem.урскНСИ" id="32520af9-556a-491c-bd6b-33b34e158dea" configVersion="1660241d496bab4da28d1a849b0fe37d00000000"/>
+		<Metadata name="Subsystem.урскПаспортизация" id="6a338690-82fc-4ad9-aa17-6ad622e6fd28" configVersion="348990bac49bff47b95453c5bf02b00600000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
