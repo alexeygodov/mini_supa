@@ -12,7 +12,7 @@
 		<Metadata name="Catalog.урскЕдиницыОборудования.Form.ФормаЭлемента" id="986764ce-78bd-44bc-8bad-195efdbb4a36" configVersion="041200c8bab8ba42b0d82150118e976800000000"/>
 		<Metadata name="Catalog.урскЕдиницыОборудования.Form.ФормаЭлемента.Form" id="986764ce-78bd-44bc-8bad-195efdbb4a36.0" configVersion="28e3524e43d18f47a3f408a02151284400000000"/>
 		<Metadata name="Catalog.урскКлассификаторОсновногоПроизводственногоОборудования" id="87bb8cca-826b-4248-b222-27c1f9de231c" configVersion="70f4e8048531274e8acbd9362e1637c300000000"/>
-		<Metadata name="Catalog.урскСтруктурыСети" id="30d1e4c7-e297-4ea0-84f2-b65cd8afd4eb" configVersion="ff2b6e8132c4824ead40f6361f7d24bc00000000">
+		<Metadata name="Catalog.урскСтруктурыСети" id="30d1e4c7-e297-4ea0-84f2-b65cd8afd4eb" configVersion="7fb9acebdb1cf940ac2c1b323c49ded500000000">
 			<Metadata name="Catalog.урскСтруктурыСети.TabularSection.СтатическиеПараметры.Attribute.Параметр" id="1cce6490-de26-411a-b98c-9c20af30f2fb"/>
 			<Metadata name="Catalog.урскСтруктурыСети.TabularSection.СтатическиеПараметры" id="45bf1ea8-8944-4e8a-b1fe-79056dfeea00"/>
 			<Metadata name="Catalog.урскСтруктурыСети.TabularSection.СтатическиеПараметры.Attribute.Значение" id="4ed77fec-c52b-4fd6-a0b7-9787a05bac37"/>

@@ -280,7 +280,7 @@
 							</Synonym>
 							<Comment/>
 							<Type>
-								<v8:TypeId>94e875a0-5eb8-4ec3-8f62-493fd1654a18</v8:TypeId>
+								<v8:Type>cfg:ChartOfCharacteristicTypesRef.урскПараметры</v8:Type>
 							</Type>
 							<PasswordMode>false</PasswordMode>
 							<Format/>
@@ -295,7 +295,11 @@
 							<FillChecking>DontCheck</FillChecking>
 							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 							<ChoiceParameterLinks/>
-							<ChoiceParameters/>
+							<ChoiceParameters>
+								<app:item name="Отбор.ТипПараметра">
+									<app:value xsi:type="xr:DesignTimeRef">Enum.урскТипыПараметров.EnumValue.Динамический</app:value>
+								</app:item>
+							</ChoiceParameters>
 							<QuickChoice>Auto</QuickChoice>
 							<CreateOnInput>Auto</CreateOnInput>
 							<ChoiceForm/>
