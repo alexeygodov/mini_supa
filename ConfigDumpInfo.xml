@@ -95,8 +95,8 @@
 		<Metadata name="Role.урскПросмотр_урскСтруктурыСети.Rights" id="b3f75ade-b94b-4658-afba-93b042bc8d4a.0" configVersion="b657f3cf0e84614d8a73445a9f40263f00000000"/>
 		<Metadata name="Role.урскПросмотр_урскУстановкаСнятиеЕдиницОборудования" id="504e512c-afae-43f3-9bd3-8bc0a6b04097" configVersion="745eeb2189484a419efdbb203dd1793300000000"/>
 		<Metadata name="Role.урскПросмотр_урскУстановкаСнятиеЕдиницОборудования.Rights" id="504e512c-afae-43f3-9bd3-8bc0a6b04097.0" configVersion="23e17cc33e76904686c0ea73c524d4ac00000000"/>
-		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ" id="1d923798-d380-4f00-aebe-6114838da1cc" configVersion="b8a82764ab071745af6f78a689ee7b1100000000"/>
-		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ.Rights" id="1d923798-d380-4f00-aebe-6114838da1cc.0" configVersion="c37e560032078744b304fa435e6624a300000000"/>
+		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ" id="1d923798-d380-4f00-aebe-6114838da1cc" configVersion="762ad869a76ba7439d03e64a9baf2fb700000000"/>
+		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ.Rights" id="1d923798-d380-4f00-aebe-6114838da1cc.0" configVersion="b255bff0de90f54c8eddb069e5be040500000000"/>
 		<Metadata name="Role.урскРедактирование_урскЕдиницыОборудования" id="1da7dbe0-1ba5-41ed-9357-1947e3ecd205" configVersion="f8d0d0a139fb714db0de25e881a609db00000000"/>
 		<Metadata name="Role.урскРедактирование_урскЕдиницыОборудования.Rights" id="1da7dbe0-1ba5-41ed-9357-1947e3ecd205.0" configVersion="bf88c8f0bc21684c91e89e93e862410800000000"/>
 		<Metadata name="Role.урскРедактирование_урскЗначенияПараметровТехническихМест" id="356b24ad-c4d2-4062-97ac-0e3e3276800c" configVersion="3d6d88a5c12f5144b8d062503a4ce02c00000000"/>

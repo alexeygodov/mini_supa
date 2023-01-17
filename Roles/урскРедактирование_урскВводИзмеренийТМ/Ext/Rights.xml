@@ -38,6 +38,10 @@
 			<value>true</value>
 		</right>
 		<right>
+			<name>InteractiveSetDeletionMark</name>
+			<value>true</value>
+		</right>
+		<right>
 			<name>InteractivePosting</name>
 			<value>true</value>
 		</right>
