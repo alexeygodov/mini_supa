@@ -211,10 +211,14 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>урскНСИ</Subsystem>
-			<Subsystem>СтруктурыСети</Subsystem>
 			<Subsystem>урскПаспортизация</Subsystem>
 			<Role>урскПросмотр_урскВводИзмеренийТМ</Role>
 			<Role>урскРедактирование_урскВводИзмеренийТМ</Role>
+			<Role>урскПросмотр_УрскЕдиницыОборудования</Role>
+			<Role>урскПросмотр_урскНСИ</Role>
+			<Role>урскПросмотр_урскПаспортизация</Role>
+			<Role>урскПросмотр_урскЗначенияПараметровТехническихМест</Role>
+			<Role>урскРедактирование_урскЗначенияПараметровТехническихМест</Role>
 			<Catalog>урскЕдиницыОборудования</Catalog>
 			<Catalog>урскКлассификаторОсновногоПроизводственногоОборудования</Catalog>
 			<Catalog>урскСтруктурыСети</Catalog>
@@ -224,9 +228,9 @@
 			<Document>урскВводИзмеренийТМ</Document>
 			<Enum>урскВидыОбъектовСтруктуры</Enum>
 			<Enum>урскВидыОпераций</Enum>
+			<Enum>урскТипыПараметров</Enum>
 			<InformationRegister>урскЗначенияПараметровТехническихМест</InformationRegister>
 			<ChartOfCharacteristicTypes>урскПараметры</ChartOfCharacteristicTypes>
-			<ChartOfCharacteristicTypes>Значение</ChartOfCharacteristicTypes>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

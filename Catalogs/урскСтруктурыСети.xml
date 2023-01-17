@@ -280,7 +280,7 @@
 							</Synonym>
 							<Comment/>
 							<Type>
-								<v8:Type>cfg:ChartOfCharacteristicTypesRef.Значение</v8:Type>
+								<v8:TypeId>94e875a0-5eb8-4ec3-8f62-493fd1654a18</v8:TypeId>
 							</Type>
 							<PasswordMode>false</PasswordMode>
 							<Format/>
