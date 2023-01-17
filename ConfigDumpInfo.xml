@@ -106,6 +106,6 @@
 		<Metadata name="Role.урскРедактирование_урскУстановкаСнятиеЕдиницОборудования" id="e9d829a1-6173-4578-8836-d36fc434bbd9" configVersion="5ade950363ade5429328df5604f68fc000000000"/>
 		<Metadata name="Role.урскРедактирование_урскУстановкаСнятиеЕдиницОборудования.Rights" id="e9d829a1-6173-4578-8836-d36fc434bbd9.0" configVersion="1078d072ae157740b727b851e50576b300000000"/>
 		<Metadata name="Subsystem.урскНСИ" id="32520af9-556a-491c-bd6b-33b34e158dea" configVersion="1660241d496bab4da28d1a849b0fe37d00000000"/>
-		<Metadata name="Subsystem.урскПаспортизация" id="6a338690-82fc-4ad9-aa17-6ad622e6fd28" configVersion="348990bac49bff47b95453c5bf02b00600000000"/>
+		<Metadata name="Subsystem.урскПаспортизация" id="6a338690-82fc-4ad9-aa17-6ad622e6fd28" configVersion="d087b37f61b6fa42b5d8713d5e83d45300000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
