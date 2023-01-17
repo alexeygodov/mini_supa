@@ -70,10 +70,10 @@
 			<Metadata name="Enum.урскТипыПараметров.EnumValue.Динамический" id="4a027d3a-a043-4b07-b29e-ff9cab6e33bf"/>
 			<Metadata name="Enum.урскТипыПараметров.EnumValue.Статический" id="ede70f8d-3ef1-426c-93f8-9a02e72939da"/>
 		</Metadata>
-		<Metadata name="InformationRegister.урскЕдиницыОборудованияНаТехническихМестах" id="956aa845-23a1-4607-a618-7fbc200c5daa" configVersion="336f587b7948094a8f4873eb2780d2d900000000">
-			<Metadata name="InformationRegister.урскЕдиницыОборудованияНаТехническихМестах.Dimension.Статус" id="a569c925-08be-4fc6-bd9c-d263f2af548f"/>
-			<Metadata name="InformationRegister.урскЕдиницыОборудованияНаТехническихМестах.Dimension.ТехническоеМесто" id="b998e7b2-ee7e-4023-ae20-b697831cc379"/>
-			<Metadata name="InformationRegister.урскЕдиницыОборудованияНаТехническихМестах.Resource.ЕдиницыОборудования" id="bfcced80-0b34-4f26-bc7b-68d5803a107b"/>
+		<Metadata name="InformationRegister.урскЕдиницыОборудованияНаТехническихМестах" id="956aa845-23a1-4607-a618-7fbc200c5daa" configVersion="f3818bb3ca49c14eaa2d3363322c47f100000000">
+			<Metadata name="InformationRegister.урскЕдиницыОборудованияНаТехническихМестах.Resource.ТехническоеМесто" id="8dc29369-584c-4128-af3a-c44da995c257"/>
+			<Metadata name="InformationRegister.урскЕдиницыОборудованияНаТехническихМестах.Resource.Статус" id="b3ee8704-9be1-4182-bcd5-fb881ecd5005"/>
+			<Metadata name="InformationRegister.урскЕдиницыОборудованияНаТехническихМестах.Dimension.ЕдиницыОборудования" id="bf806fcf-0819-482d-a8d1-467ab585e2a8"/>
 		</Metadata>
 		<Metadata name="InformationRegister.урскЗначенияПараметровТехническихМест" id="013ac0cd-bde8-4a2f-8080-9fa1d4ca37a4" configVersion="235385b39e2f794fa47b96a0a23615c000000000">
 			<Metadata name="InformationRegister.урскЗначенияПараметровТехническихМест.Dimension.ТехническоеМесто" id="26cc9eb8-ce0a-48e2-9c75-c41f22858e58"/>
