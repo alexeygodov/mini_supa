@@ -17,6 +17,8 @@
 			<Picture/>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.урскВводИзмеренийТМ</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.урскПереносЕдиницОборудования</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.урскУстановкаСнятиеЕдиницОборудования</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

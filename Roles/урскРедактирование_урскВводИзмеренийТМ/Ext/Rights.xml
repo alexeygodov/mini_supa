@@ -42,6 +42,10 @@
 			<value>true</value>
 		</right>
 		<right>
+			<name>InteractiveClearDeletionMark</name>
+			<value>true</value>
+		</right>
+		<right>
 			<name>InteractivePosting</name>
 			<value>true</value>
 		</right>
