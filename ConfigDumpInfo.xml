@@ -86,6 +86,8 @@
 		<Metadata name="Role.урскПросмотр_УрскЕдиницыОборудования.Rights" id="1a007c6a-4946-4b8d-b53e-6addf690b074.0" configVersion="91638d1f40205a49b13aeec91947dfb800000000"/>
 		<Metadata name="Role.урскПросмотр_урскВводИзмеренийТМ" id="64890e55-b361-4116-a7ae-025a18d1982b" configVersion="83e95df86e777043bc57a8eee50bbfb800000000"/>
 		<Metadata name="Role.урскПросмотр_урскВводИзмеренийТМ.Rights" id="64890e55-b361-4116-a7ae-025a18d1982b.0" configVersion="0bf5178b6a1daf499ad9ac3e6cdb957500000000"/>
+		<Metadata name="Role.урскПросмотр_урскЕдиницыОборудованияНаТехническихМестах" id="acc4709b-fb1c-4d30-85b4-16c6482c58bc" configVersion="2eedcb53c738d6498342642721491f1200000000"/>
+		<Metadata name="Role.урскПросмотр_урскЕдиницыОборудованияНаТехническихМестах.Rights" id="acc4709b-fb1c-4d30-85b4-16c6482c58bc.0" configVersion="cc8313b3115964429f7639b2b87501e700000000"/>
 		<Metadata name="Role.урскПросмотр_урскЗначенияПараметровТехническихМест" id="68bd7678-c63c-4a33-a46c-bca2157095d7" configVersion="ed36d6e456647f4ea2f9c7b7ad63d42800000000"/>
 		<Metadata name="Role.урскПросмотр_урскЗначенияПараметровТехническихМест.Rights" id="68bd7678-c63c-4a33-a46c-bca2157095d7.0" configVersion="998a95aedb5a2943b0bf7689f553481100000000"/>
 		<Metadata name="Role.урскПросмотр_урскНСИ" id="63f9a345-555d-45e1-bb3e-fe10e2c3ffc1" configVersion="63ecad74c6754042a9908257e83325d300000000"/>
@@ -102,6 +104,8 @@
 		<Metadata name="Role.урскРедактирование_урскВводИзмеренийТМ.Rights" id="1d923798-d380-4f00-aebe-6114838da1cc.0" configVersion="d6fa2b3c8997924daabe4d7e636e363900000000"/>
 		<Metadata name="Role.урскРедактирование_урскЕдиницыОборудования" id="1da7dbe0-1ba5-41ed-9357-1947e3ecd205" configVersion="90b0320c04abb44e96e4f93bb49f086400000000"/>
 		<Metadata name="Role.урскРедактирование_урскЕдиницыОборудования.Rights" id="1da7dbe0-1ba5-41ed-9357-1947e3ecd205.0" configVersion="de9a71540a8b6042a628c4c0e3bf559b00000000"/>
+		<Metadata name="Role.урскРедактирование_урскЕдиницыОборудованияНаТехническихМестах" id="0357c4d5-0d30-4689-8bca-41c99b84dac0" configVersion="f8b7f432af3e53418f1d81c00ef8f3c500000000"/>
+		<Metadata name="Role.урскРедактирование_урскЕдиницыОборудованияНаТехническихМестах.Rights" id="0357c4d5-0d30-4689-8bca-41c99b84dac0.0" configVersion="91ca581a2c3f984fbac6ff9b62f7206a00000000"/>
 		<Metadata name="Role.урскРедактирование_урскЗначенияПараметровТехническихМест" id="356b24ad-c4d2-4062-97ac-0e3e3276800c" configVersion="c7a5b43efc61c74db9b3b34f73f2fb9d00000000"/>
 		<Metadata name="Role.урскРедактирование_урскЗначенияПараметровТехническихМест.Rights" id="356b24ad-c4d2-4062-97ac-0e3e3276800c.0" configVersion="55c14ce4509c674083ecd4b1aabdb58200000000"/>
 		<Metadata name="Role.урскРедактирование_урскПараметры" id="689478fc-8b4f-4ec1-854c-ed2d3e1c6411" configVersion="a0fbb569a645aa478ea09063e1325a3f00000000"/>
@@ -110,10 +114,6 @@
 		<Metadata name="Role.урскРедактирование_урскСтруктурыСети.Rights" id="c35dcd85-d60b-405a-866b-2b985ed696ad.0" configVersion="21f26ac205570f49b2727fd04b9dc33100000000"/>
 		<Metadata name="Role.урскРедактирование_урскУстановкаСнятиеЕдиницОборудования" id="e9d829a1-6173-4578-8836-d36fc434bbd9" configVersion="a02fb70a8d2e8d45a4d47960f2995c4900000000"/>
 		<Metadata name="Role.урскРедактирование_урскУстановкаСнятиеЕдиницОборудования.Rights" id="e9d829a1-6173-4578-8836-d36fc434bbd9.0" configVersion="f7bd21f6ce00f04caf0c1243e82a022300000000"/>
-		<Metadata name="Role.усркПросмотр_урскЕдиницыОборудованияНаТехническихМестах" id="acc4709b-fb1c-4d30-85b4-16c6482c58bc" configVersion="92ae47c353f2824984ec9a1bdda93eab00000000"/>
-		<Metadata name="Role.усркПросмотр_урскЕдиницыОборудованияНаТехническихМестах.Rights" id="acc4709b-fb1c-4d30-85b4-16c6482c58bc.0" configVersion="cc8313b3115964429f7639b2b87501e700000000"/>
-		<Metadata name="Role.усркРедактирование_урскЕдиницыОборудованияНаТехническихМестах" id="0357c4d5-0d30-4689-8bca-41c99b84dac0" configVersion="5ab998d5b7934641b66c9848384aac2f00000000"/>
-		<Metadata name="Role.усркРедактирование_урскЕдиницыОборудованияНаТехническихМестах.Rights" id="0357c4d5-0d30-4689-8bca-41c99b84dac0.0" configVersion="91ca581a2c3f984fbac6ff9b62f7206a00000000"/>
 		<Metadata name="Subsystem.урскНСИ" id="32520af9-556a-491c-bd6b-33b34e158dea" configVersion="a335f7c7699fc24fbf5fddf082cae71600000000"/>
 		<Metadata name="Subsystem.урскПаспортизация" id="6a338690-82fc-4ad9-aa17-6ad622e6fd28" configVersion="d087b37f61b6fa42b5d8713d5e83d45300000000"/>
 	</ConfigVersions>
