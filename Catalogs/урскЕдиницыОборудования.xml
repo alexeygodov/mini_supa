@@ -434,8 +434,8 @@
 							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 							<ChoiceParameterLinks/>
 							<ChoiceParameters>
-								<app:item name="Отбор.ТипЗначения">
-									<app:value xsi:type="xr:DesignTimeRef">Enum.урскТипыПараметров.EnumValue.Динамический</app:value>
+								<app:item name="Отбор.ТипПараметра">
+									<app:value xsi:type="xr:DesignTimeRef">Enum.урскТипыПараметров.EnumValue.Статический</app:value>
 								</app:item>
 							</ChoiceParameters>
 							<QuickChoice>Auto</QuickChoice>
@@ -474,11 +474,7 @@
 							<FillChecking>DontCheck</FillChecking>
 							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 							<ChoiceParameterLinks/>
-							<ChoiceParameters>
-								<app:item name="Отбор.ТипПараметра">
-									<app:value xsi:type="xr:DesignTimeRef">Enum.урскТипыПараметров.EnumValue.Статический</app:value>
-								</app:item>
-							</ChoiceParameters>
+							<ChoiceParameters/>
 							<QuickChoice>Auto</QuickChoice>
 							<CreateOnInput>Auto</CreateOnInput>
 							<ChoiceForm/>
